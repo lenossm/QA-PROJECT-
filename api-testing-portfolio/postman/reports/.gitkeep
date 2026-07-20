@@ -1,0 +1,2 @@
+# Newman HTML reports are generated into this folder by `npm run postman:report`.
+# Generated reports are git-ignored; this file keeps the folder in the repository.
