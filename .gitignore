@@ -1,0 +1,34 @@
+# build
+target/
+*.class
+*.jar
+*.war
+
+# ide
+.idea/
+*.iml
+.vscode/
+*.classpath
+*.project
+.settings/
+
+# os
+.DS_Store
+Thumbs.db
+
+# test output
+test-results/
+allure-results/
+allure-report/
+playwright-report/
+screenshots/
+videos/
+traces/
+*.log
+
+# local config (copy from example)
+**/config.local.properties
+.env
+
+# maven
+.mvn/wrapper/maven-wrapper.jar
